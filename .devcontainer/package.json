@@ -1,0 +1,13 @@
+{
+    "name": "d2x-codespaces",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+      "@salesforce/cli": "^1.83.4",
+      "@salesforce/sfdx-scanner": "^3.13.0"
+    }
+  }
